@@ -1,1 +1,24 @@
-
+    [
+      {
+        "id": 1,
+        "title": "Cours de Philosophie Terminale A4",
+        "description": "Le programme complet de philosophie pour la classe de Terminale A4.",
+        "category": "cours",
+        "remoteUrl": "https://raw.githubusercontent.com/ahmedbusness6-lgtm/educationis-assets/main/Cours%20de%20Philosophie%20Terminale%20A4.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Manuel de Mathématiques - Algèbre et Géométrie",
+        "description": "Manuel complet couvrant l'algèbre et la géométrie pour le niveau lycée.",
+        "category": "cours",
+        "remoteUrl": "https://raw.githubusercontent.com/ahmedbusness6-lgtm/educationis-assets/main/Manuele%20de%20Mathematiques%20Pour%20le%20Lycee%20Algebre%20et%20Geometrie.pdf"
+      },
+      {
+        "id": 3,
+        "title": "Physique TA4",
+        "description": "Cours et exercices de physique pour la classe de Terminale A4.",
+        "category": "cours",
+        "remoteUrl": "https://raw.githubusercontent.com/ahmedbusness6-lgtm/educationis-assets/main/physique%20TA4.pdf"
+      }
+    ]
+    
